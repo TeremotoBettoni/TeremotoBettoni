@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72EF3&width=435&lines=Hello,+My+Name+is+Teresa+Bettoni;I'm+28+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F72EF3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Teresa+Bettoni;I'm+28+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Hi there. 👋
 
