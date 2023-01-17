@@ -2,9 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F72EF3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Teresa+Bettoni;I'm+28+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Hi there. 👋
+### Contact me from:. 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-teresa-bettoni-ramos-26206713b/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TeremotoBettoni/TeremotoBettoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
