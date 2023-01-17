@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F72EF3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Teresa+Bettoni;I'm+28+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeremotoBettoni&show_icons=true&theme=radical)
-  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F72EF3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Teresa+Bettoni;I'm+28+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 ### 👋📫 Contact me from: 
 
@@ -23,8 +19,7 @@
   <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wagner-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
 </div>
-  <br>
-  <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
