@@ -20,7 +20,8 @@
   <img align="center" alt="Wagner-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
 </div>
   
-<br>
+<div style="display: inline_block"><br>
+  </div>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
