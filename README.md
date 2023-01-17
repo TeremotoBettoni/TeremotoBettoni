@@ -8,9 +8,11 @@
 <div> 
 <a href = "mailto:mtbettoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 </div>
-<div align="center">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact)](https://github.com/TeremotoBettoni/github-readme-stats)
-</div>
+
+
 <!--
 **TeremotoBettoni/TeremotoBettoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
