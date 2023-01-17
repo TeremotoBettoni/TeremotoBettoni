@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a48&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Teresa+Bettoni;I'm+28+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-### Hi there. I'm Teresa Bettoni, a Full Stack Java Developer 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72EF3&width=435&lines=Hello,+My+Name+is+Teresa+Bettoni;I'm+28+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+### Hi there. 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-teresa-bettoni-ramos-26206713b/)
 
