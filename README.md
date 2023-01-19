@@ -23,7 +23,5 @@
 <div style="display: inline_block"><br>
   </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact)](https://github.com/TeremotoBettoni/github-readme-stats)
   
