@@ -31,5 +31,20 @@
 <div style="display: inline_block"><br>
   </div>
   
+### 🌎 Projects
+  
+  <tr>
+  <td width="80" align="center" valign="top">
+    <br>
+    <a href="https://nuxt.com/docs/examples/hello-world"><img src="./.github/assets/examples.png"></a>
+  </td>
+  <td>
+    <h3>Profile</h3>
+    <p>
+      Visit my portfolio at <a href="https://TeremotoBettoni.github.io/Portfolio/">Teresa Bettoni</a>.
+    </p>
+  </td>
+</tr>
+  
  | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeremotoBettoni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
