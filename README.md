@@ -32,12 +32,7 @@
   </div>
   
 ### 🌎 Projects
-  
   <tr>
-  <td width="80" align="center" valign="top">
-    <br>
-    <a href="https://nuxt.com/docs/examples/hello-world"><img src="./.github/assets/examples.png"></a>
-  </td>
   <td>
     <h3>Profile</h3>
     <p>
