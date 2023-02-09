@@ -31,7 +31,7 @@
 <div style="display: inline_block"><br>
   </div>
   
- | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeremotoBettoni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeremotoBettoni&show_icons=true&theme=radical" alt="Anurag's github stats" /></a> | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact)](https://github.com/TeremotoBettoni/github-readme-stats)
