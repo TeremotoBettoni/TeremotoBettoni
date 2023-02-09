@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F72EF3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Teresa+Bettoni;I'm+28+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-### 👋📫 About me: 
+### 👋 About me: 
   <div>
   <h4>Hello everyone!</h4>
   <p>My name is Maria Teresa Bettoni and I like to create things that live on the internet.</p>
@@ -10,7 +10,7 @@
  <p>I remember my first code run, the most exciting experience! That's when I realised that this is what I want to do with my life.</p>
   </div>
 
-### 👋📫 Contact me from: 
+### 📫 Contact me from: 
 
   <div> 
   <a href="https://www.linkedin.com/in/maria-teresa-bettoni-ramos-26206713b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
