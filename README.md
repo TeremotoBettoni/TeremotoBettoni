@@ -19,6 +19,16 @@
   
 ---
 
+### 🌎 Projects
+<h4>click to view repositories</h4>
+  <p align="left"> 
+  <a href="https://github.com/TeremotoBettoni/Portfolio" target="_blank" rel="noreferrer"> | Profile<img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/></a> 
+    <a href="https://github.com/TeremotoBettoni/YoSeProyect" target="_blank" rel="noreferrer"> | YoSe!<img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/></a> 
+    <a href="https://github.com/TeremotoBettoni/Pokedex" target="_blank" rel="noreferrer"> | Pokedex<img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/></a> 
+</p>
+
+---
+
 ### ⚡ Technologies I've worked with
 <h4>Programming Languages</h4>
 <p align="left"> 
@@ -54,15 +64,7 @@
 <div style="display: inline_block"><br>
   </div>
 
----
 
-### 🌎 Projects
-<h4>click to view repositories</h4>
-  <p align="left"> 
-  <a href="https://github.com/TeremotoBettoni/Portfolio" target="_blank" rel="noreferrer"> | Profile<img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/></a> 
-    <a href="https://github.com/TeremotoBettoni/YoSeProyect" target="_blank" rel="noreferrer"> | YoSe!<img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/></a> 
-    <a href="https://github.com/TeremotoBettoni/Pokedex" target="_blank" rel="noreferrer"> | Pokedex<img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/></a> 
-</p>
 
 
 ---
