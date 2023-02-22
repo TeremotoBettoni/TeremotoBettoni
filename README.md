@@ -55,7 +55,7 @@
 ---
 ### 🌎 Projects
 <h4>click to view repositories</h4>
-  <p align="center"> 
+  <p> 
   <a href="https://github.com/TeremotoBettoni/Portfolio" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/></a> 
     <a href="https://github.com/TeremotoBettoni/YoSeProyect" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/></a> 
     <a href="https://github.com/TeremotoBettoni/Pokedex" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/></a> 
