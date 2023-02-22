@@ -54,10 +54,11 @@
   
 ### 🌎 Projects
 <h4>click to view repositories</h4>
-    <a href="https://github.com/TeremotoBettoni/Portfolio"><img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/><h3>Profile</h3></a>
-    <a href="https://github.com/TeremotoBettoni/YoSeProyect"><img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/><h3>YoSe!</h3></a>
-    <a href="https://github.com/TeremotoBettoni/Pokedex"><img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/><h3>Pokedex</h3></a>
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://github.com/TeremotoBettoni/Portfolio"><h3>Profile</h3><img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/></a>
+    <a href="https://github.com/TeremotoBettoni/YoSeProyect"><h3>YoSe!</h3><img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/></a>
+    <a href="https://github.com/TeremotoBettoni/Pokedex"><h3>Pokedex</h3><img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/></a>
+<div>
 
 ---
  | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeremotoBettoni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact&theme=buefy&hide_border=true" /></a> |
