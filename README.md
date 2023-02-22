@@ -55,8 +55,10 @@
 ---
 ### 🌎 Projects
 <h4>click to view repositories</h4>
-<div align="center" display="flex">
-  <p> <a href="https://github.com/TeremotoBettoni/Portfolio"><h3>Profile</h3><img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/></a> <a href="https://github.com/TeremotoBettoni/YoSeProyect"><h3>YoSe!</h3><img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/></a> <a href="https://github.com/TeremotoBettoni/Pokedex"><h3>Pokedex</h3><img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/></a> </p>
+<div align="center" style="display: inline_block">
+  <p> <a href="https://github.com/TeremotoBettoni/Portfolio" target="_blank" rel="noreferrer"><h3>Profile</h3><img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/></a> 
+    <a href="https://github.com/TeremotoBettoni/YoSeProyect" target="_blank" rel="noreferrer"><h3>YoSe!</h3><img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/></a> 
+    <a href="https://github.com/TeremotoBettoni/Pokedex" target="_blank" rel="noreferrer"><h3>Pokedex</h3><img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/></a> </p>
   <div>
 
 ---
