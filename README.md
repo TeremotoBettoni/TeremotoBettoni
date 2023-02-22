@@ -16,7 +16,9 @@
   <a href="https://www.linkedin.com/in/maria-teresa-bettoni-ramos-26206713b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:mtbettoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
   </div>
+  
 ---
+
 ### ⚡ Technologies I've worked with
 <h4>Programming Languages</h4>
 <p align="left"> 
@@ -53,6 +55,7 @@
   </div>
 
 ---
+
 ### 🌎 Projects
 <h4>click to view repositories</h4>
   <p align="left"> 
