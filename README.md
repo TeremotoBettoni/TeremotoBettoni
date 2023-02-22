@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/maria-teresa-bettoni-ramos-26206713b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:mtbettoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
   </div>
-
+---
 ### ⚡ Technologies I've worked with
 <h4>Programming Languages</h4>
 <p align="left"> 
@@ -56,7 +56,7 @@
 ### 🌎 Projects
 <h4>click to view repositories</h4>
   <p> 
-  <a href="https://github.com/TeremotoBettoni/Portfolio" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/></a> 
+  <a href="https://github.com/TeremotoBettoni/Portfolio" target="_blank" rel="noreferrer">Profile<img src="https://i.postimg.cc/zDnjdbP0/perfil.jpg" alt="figma" width="40" height="40"/></a> 
     <a href="https://github.com/TeremotoBettoni/YoSeProyect" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/></a> 
     <a href="https://github.com/TeremotoBettoni/Pokedex" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/></a> 
 </p>
