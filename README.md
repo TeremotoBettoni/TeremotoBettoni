@@ -63,6 +63,7 @@
     <a href="https://github.com/TeremotoBettoni/YoSeProyect" target="_blank" rel="noreferrer">YoSe!<img src="https://i.postimg.cc/mkNtQGjy/yose.png" alt="figma" width="40" height="40"/></a> 
     <a href="https://github.com/TeremotoBettoni/Pokedex" target="_blank" rel="noreferrer">Pokedex<img src="https://i.postimg.cc/WzbPHLjn/pokebola.png" alt="figma" width="40" height="40"/></a> 
 </p>
+| ------------- | ------------- | ------------- |
 
 ---
  | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeremotoBettoni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact&theme=buefy&hide_border=true" /></a> |
