@@ -11,7 +11,7 @@
   </div>
   
   
-<p>You can check out my portfolio <a href="https://github.com/TeremotoBettoni/Portfolio">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://teremotobettoni.github.io/Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 ### 📫 Contact me from: 
 
