@@ -68,5 +68,8 @@
 
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api?username=TeremotoBettoni&show_icons=true&theme=tokyonight&bg_color=00000000&true&hide_border=true" height="160px"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true"> <br>
  | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeremotoBettoni&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TeremotoBettoni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeremotoBettoni&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
