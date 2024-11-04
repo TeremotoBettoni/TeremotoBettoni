@@ -9,6 +9,9 @@
  <p>My interest in web development started back in 2016, and finally have the opportunity to learn in 2022, when I decided to try in a bootcamp with Generation Chile, an NGO to give me the opportunity with a scholarship to study full stack Java Develop.</p>
  <p>I remember my first code run, the most exciting experience! That's when I realised that this is what I want to do with my life.</p>
   </div>
+  
+  
+<p>You can check out my portfolio <a href="https://github.com/TeremotoBettoni/Portfolio">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 ### 📫 Contact me from: 
 
